@@ -2,7 +2,7 @@
 Description
 This project is a basic Python implementation of a text-based chatbot designed to mimic a low-resource AI component for an offline educational application. It is developed as part of exploring AI-driven solutions to improve **education quality** for learners in rural Eastern Cape, South Africa, where internet access is limited and digital literacy varies. This is an effort to implement the Sustainable Goal 4 which aims to ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.
 
-The chatbot uses a rule-based approach with keyword matching to provide responses to predefined questions and offer basic information on secondary school topics and South African history, without requiring a constant internet connection for its core functionality.
+The chatbot uses a rule-based approach with keyword matching to provide responses to predefined questions and offer basic information on secondary school topics and South African history, without requiring a constant internet connection for its core functionality.  The relevant ML approach we explored the application is Supervised Learning for Chatbot Intent Recognition, to improve the chatbot's understanding of user queries in a low-resource environment.
 
 Problem Statement
 Learners and teachers in rural Eastern Cape face significant challenges due to limited internet access and insufficient digital literacy. Access to online educational resources and real-time online support is often unreliable or unavailable. This chatbot is a conceptual step towards providing immediate, on-device educational assistance in such environments.
