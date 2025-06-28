@@ -1,4 +1,4 @@
-# Simple Offline Educational Chatbot Prototype
+# Simple Offline Educational Chatbot 
 Description
 This project is a basic Python implementation of a text-based chatbot designed to mimic a low-resource AI component for an offline educational application. It is developed as part of exploring AI-driven solutions to improve **education quality** for learners in rural Eastern Cape, South Africa, where internet access is limited and digital literacy varies. This is an effort to implement the Sustainable Goal 4 which aims to ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.
 
